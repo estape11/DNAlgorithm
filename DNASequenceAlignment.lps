@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="DNASequenceAlignment.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="176"/>
+        <CursorPos X="112" Y="185"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="7" HistoryIndex="6">
+      <Position1>
+        <Filename Value="DNASequenceAlignment.lpr"/>
+        <Caret Line="108" Column="27" TopLine="82"/>
+      </Position1>
+      <Position2>
+        <Filename Value="DNASequenceAlignment.lpr"/>
+        <Caret Line="10" Column="35"/>
+      </Position2>
+      <Position3>
+        <Filename Value="DNASequenceAlignment.lpr"/>
+        <Caret Line="144" Column="51" TopLine="123"/>
+      </Position3>
+      <Position4>
+        <Filename Value="DNASequenceAlignment.lpr"/>
+        <Caret Line="147" Column="70" TopLine="121"/>
+      </Position4>
+      <Position5>
+        <Filename Value="DNASequenceAlignment.lpr"/>
+        <Caret Line="186" Column="12" TopLine="164"/>
+      </Position5>
+      <Position6>
+        <Filename Value="DNASequenceAlignment.lpr"/>
+        <Caret Line="12"/>
+      </Position6>
+      <Position7>
+        <Filename Value="DNASequenceAlignment.lpr"/>
+        <Caret Line="25" Column="5"/>
+      </Position7>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
